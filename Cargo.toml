@@ -20,3 +20,4 @@ path = "shadow/main.rs"
 [build-dependencies]
 cc = "1.0"
 bindgen = "0.62"
+pkg-config = "0.3"
